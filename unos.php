@@ -12,9 +12,12 @@
         <input type="text" name="ime"><br>
 
         Prezime:<br>
-        <input type="text" name="prezime"><br>
+        <input type="text" name="prewzime"><br>
 
         <input type="submit" value="Pošalji!">
+
+
+
     </form>
 </body>
 
